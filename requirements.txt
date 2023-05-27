@@ -1,2 +1,4 @@
 # requirements.txt
 snowflake-connector-python
+
+streamlit run streamlit_app.py --server.fileWatcherType none
